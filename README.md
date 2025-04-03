@@ -10,5 +10,5 @@ AI 101 Projects
 
 [Project 7: Password Generator Python Project](https://colab.research.google.com/drive/1qeACrH82FDTTiiem3j7hQRyLw-7RKi-j#scrollTo=GPVD7EzY0nqT){:target="_blank"}
 
-[Project 6: Countdown Timer Python Project](https://colab.research.google.com/drive/1va_jjU511hWtTrd5AmRXhBKM7lJKjJqb#scrollTo=fJTvwvQE1lOn){:target="_blank"}
+[Project 6: Countdown Timer Python Project](https://colab.research.google.com/drive/1va_jjU511hWtTrd5AmRXhBKM7lJKjJqb?usp=sharing){:target="_blank"}
 
