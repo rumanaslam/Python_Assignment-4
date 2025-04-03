@@ -4,5 +4,5 @@
 
 AI 101 Projects
 
-[Project 1: Mad libs Python Project]
-(https://colab.research.google.com/drive/1Tpn73Ekg5pxUtAOfgDIuG6pgmrkf9qVO)
+[Project 1: Mad libs Python Project](https://colab.research.google.com/drive/1Tpn73Ekg5pxUtAOfgDIuG6pgmrkf9qVO){:target="_blank"}
+
