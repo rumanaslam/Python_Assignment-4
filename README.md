@@ -13,7 +13,9 @@
 
 [03_if_statements](https://colab.research.google.com/drive/13pe9uPkaTV0dOb5amk1c0bdTgeNlmbN9?usp=sharing){:target="_blank"}
 
+[04_dictionaries](https://colab.research.google.com/drive/1_6VSiiouhmNb1gZLCXB8u_pCMFY9wtlQ?usp=sharing){:target="_blank"}
 
+[05_loops_contro](https://colab.research.google.com/drive/1_5fMtmli9lTs27nl88NH2QtzJZARwbsT?usp=sharing){:target="_blank"}
 
 
 AI 101 Projects
