@@ -24,7 +24,15 @@ AI 101 Projects
 
 [Project 2: Guess the Number Game Python Project (computer)](https://colab.research.google.com/drive/1Tpn73Ekg5pxUtAOfgDIuG6pgmrkf9qVO){:target="_blank"}
 
-[Project 7: Password Generator Python Project](https://colab.research.google.com/drive/1qeACrH82FDTTiiem3j7hQRyLw-7RKi-j#scrollTo=GPVD7EzY0nqT){:target="_blank"}
+[Project 3: Guess the Number Game Python Project (user)](https://colab.research.google.com/drive/1Bq3PvadiT_SAuuMgp8D5kmszNI0WNQiP?usp=sharing){:target="_blank"}
+
+[Project 4: Rock, paper, scissors Python Project](https://colab.research.google.com/drive/1fEb_nV_rTFlIZMgvJRSLeItzykBsmUCx?usp=sharing){:target="_blank"}
+
+[Project 5: Hangman Python Project](https://colab.research.google.com/drive/1IG6VWccf36q_Q442alHEW7_Y8QBmR8ec?usp=sharing){:target="_blank"}
+
 
 [Project 6: Countdown Timer Python Project](https://colab.research.google.com/drive/1va_jjU511hWtTrd5AmRXhBKM7lJKjJqb?usp=sharing){:target="_blank"}
+
+
+[Project 7: Password Generator Python Project](https://colab.research.google.com/drive/1qeACrH82FDTTiiem3j7hQRyLw-7RKi-j#scrollTo=GPVD7EzY0nqT){:target="_blank"}
 
